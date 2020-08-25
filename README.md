@@ -10,4 +10,5 @@ Syntax
 <h3>
 Description
 </h3>
+
 Returns the index of a first match of *regExp*, starting from the *fromIndex*, returns -1 if no matches are found.
